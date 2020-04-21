@@ -1,6 +1,6 @@
 {
-  "name": "@webdeb/next-styles",
-  "version": "1.0.9",
+  "name": "@grampelberg/next-styles",
+  "version": "0.0.1",
   "description": "CSS / LESS / SASS / CssModules in Next.js",
   "main": "index.js",
   "scripts": {
